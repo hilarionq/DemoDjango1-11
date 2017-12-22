@@ -11,6 +11,42 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "src/muypicky/settings/production.py",
+			"settings":
+			{
+				"buffer_size": 3132,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/muypicky/settings/local.py",
+			"settings":
+			{
+				"buffer_size": 3119,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/restaurants/views.py",
+			"settings":
+			{
+				"buffer_size": 222,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/muypicky/urls.py",
+			"settings":
+			{
+				"buffer_size": 823,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -44,7 +80,11 @@
 	},
 	"expanded_folders":
 	[
-		"/home/eduardoquenallata/Dev0/DemoDjango1-11"
+		"/home/eduardoquenallata/Dev0/DemoDjango1-11",
+		"/home/eduardoquenallata/Dev0/DemoDjango1-11/src",
+		"/home/eduardoquenallata/Dev0/DemoDjango1-11/src/muypicky",
+		"/home/eduardoquenallata/Dev0/DemoDjango1-11/src/muypicky/settings",
+		"/home/eduardoquenallata/Dev0/DemoDjango1-11/src/restaurants"
 	],
 	"file_history":
 	[
@@ -97,8 +137,125 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "src/muypicky/settings/production.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								382,
+								382
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/muypicky/settings/local.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3119,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								834,
+								834
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/restaurants/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								222,
+								222
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/muypicky/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 823,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								820,
+								820
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
